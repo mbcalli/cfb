@@ -2,20 +2,29 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
-
 from enum import Enum
-
-from scipy import stats
-
 from sklearn.cluster import KMeans
 from sklearn.cluster import DBSCAN
 
 class Side(Enum):
+    """
+    Side of the ball enum.
+    """
     OFFENSE = 1
     DEFENSE = 2
 
 def get_relative_tracking(offense_df, defense_df, side: Side):
+    """
+    This converts the raw tracking data into a play-by-play dataframe with positions relative to the center.
+
+    Args:
+        offense_df (pd.DataFrame): Dataframe of the offense tracking data
+        defense_df (pd.DataFrame): Dataframe of the defense tracking data
+        side (Side): Side of the ball, OFFENSE or DEFENSE
+
+    Returns:
+        pd.DataFrame: Dataframe of the play-by-play tracking data with positions relative to the center. Each row is a play. Each column is a player. The first 11 columns are the x positions of the players. The next 11 columns are the y positions of the players. The last column is the personnel.
+    """
     # Create dataframe for each play
     game_and_play_id_df = offense_df[['playId', 'gameId']].drop_duplicates()
 
@@ -72,6 +81,14 @@ def get_relative_tracking(offense_df, defense_df, side: Side):
     return rel_tracking
 
 def plot_all_formations(rel_tracking, side: Side):
+    """
+    This plots all of the formations of the relative tracking data into one graph.
+    Positions have alpha < 1, so darker areas are more common.
+
+    Args:
+        rel_tracking (pd.DataFrame): Relative tracking data of the play-by-play data.
+        side (Side): Side of the ball, OFFENSE or DEFENSE
+    """
     xs = rel_tracking[[col for col in rel_tracking.columns if col.startswith('x')]].values
     ys = rel_tracking[[col for col in rel_tracking.columns if col.startswith('y')]].values
 
@@ -85,12 +102,32 @@ def plot_all_formations(rel_tracking, side: Side):
         
     plt.show()
         
-def squish(x):
-    if x > 0:
-        return x
-    return max(x**7, x)
+def squish(y):
+    """
+    Squishes the y position closer to 0.
+
+    Args:
+        y (float): y position of the player
+
+    Returns:
+        float: Squished y position.
+    """
+    if y > 0:
+        return y
+    return max(y**7, y)
 
 def plot_cluster(df, model, label, ax, side: Side):
+    """
+    Plots the cluster of the model, i.e. a formation. Individual instances are plotted with alpha. The darker the area, the more common the position.
+    The mean of each position is plotted with the position label.
+
+    Args:
+        df (pd.DataFrame): Relative tracking dataframe
+        model (KMeans or DBSCAN): Model to plot
+        label (int): Predicted label to plot, used to filter the formations
+        ax (matplotlib.axes._axes.Axes): Axes to plot on
+        side (Side): Side of the ball, OFFENSE or DEFENSE
+    """
     
     # Get resulting df
     result = df.iloc[np.where(model.labels_ == label)]
@@ -142,6 +179,14 @@ def plot_cluster(df, model, label, ax, side: Side):
             ax.plot([6.1-0.5, 6.1+0.5], [i, i], '-', color='w', alpha=0.3)
                     
 def plot_model(specific_personnel_tracking, model, side: Side):
+    """
+    Iterates over the labels of the model and plots the clusters, i.e. formations.
+
+    Args:
+        specific_personnel_tracking (pd.DataFrame): Dataframe for a specific personnel group.
+        model (KMeans or DBSCAN): Model to plot
+        side (Side): Side of the ball, OFFENSE or DEFENSE
+    """
     _, axs = plt.subplots(nrows=3, ncols=3, figsize=(15, 7))
 
     for i, label in enumerate([x for x in np.unique(model.labels_) if x >= 0][:9]):
@@ -163,6 +208,17 @@ def plot_model(specific_personnel_tracking, model, side: Side):
     plt.show()
     
 def train_k_means(specific_personnel_tracking, side: Side): 
+    """
+    Trains a K-Means model on the specific personnel tracking data and plots the elbow method.
+
+    Args:
+        specific_personnel_tracking (pd.DataFrame): Dataframe for a specific personnel group.
+        side (Side): Side of the ball, OFFENSE or DEFENSE
+
+    Returns:
+        KMeans: Trained K-Means model
+        list: Predicted classes
+    """
     wcss = []
 
     for n in range(1, 20):
@@ -189,6 +245,17 @@ def train_k_means(specific_personnel_tracking, side: Side):
     return km, predictions
 
 def train_dbscan(specific_personnel_tracking, side: Side):
+    """
+    Trains a DBSCAN model on the specific personnel tracking data and plots the entropy method.
+
+    Args:
+        specific_personnel_tracking (pd.DataFrame): Dataframe for a specific personnel group.
+        side (Side): Side of the ball, OFFENSE or DEFENSE
+
+    Returns:
+        DBSCAN: Trained DBSCAN model
+        lilst: Predicted classes
+    """
     epses = np.linspace(0.5, 20, 39)
     entropies = []
 
