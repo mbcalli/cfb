@@ -1,1 +1,7 @@
-This repo contains fun college football models. These models predict relevant statistics about college football games, including score, spread, and O/U. These are predictions and should not be used for betting purposes.
+# README
+
+## Overview
+This repo contains fun college football data science stuff. Some models, some visualizations, some data.
+
+## More
+Check out the [blog](https://mattcallicott.com) for more details on some of the stuff in this repo.
