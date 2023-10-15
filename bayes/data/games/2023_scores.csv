@@ -1,0 +1,576 @@
+"game_id","week","year","home","away","home_tds","home_fgs","away_tds","away_fgs"
+401520145,1,2023,"Jacksonville State","UTEP",2,1,2,0
+401520146,1,2023,"Louisiana Tech","Florida International",2,3,2,1
+401520147,1,2023,"Vanderbilt","Hawai'i",2,0,1,0
+401520148,1,2023,"Minnesota","Nebraska",1,2,1,1
+401520149,1,2023,"Alabama","Middle Tennessee",8,0,1,0
+401520150,1,2023,"Arkansas","Western Carolina",7,0,1,2
+401520151,1,2023,"Auburn","UMass",7,1,2,0
+401520152,1,2023,"BYU","Sam Houston State",2,0,0,0
+401520153,1,2023,"Florida International","Maine",1,0,1,2
+401520154,1,2023,"Georgia","UT Martin",5,2,1,0
+401520155,1,2023,"Illinois","Toledo",3,1,3,3
+401520156,1,2023,"Indiana","Ohio State",0,1,2,3
+401520157,1,2023,"Iowa","Utah State",3,1,1,2
+401520158,1,2023,"Jacksonville State","East Tennessee State",14,0,0,1
+401520159,1,2023,"Kentucky","Ball State",3,3,2,0
+401520160,1,2023,"Liberty","Bowling Green",3,2,2,1
+401520161,1,2023,"Maryland","Towson",5,1,0,2
+401520162,1,2023,"Michigan","East Carolina",4,1,0,1
+401520163,1,2023,"Michigan State","Central Michigan",4,1,1,0
+401520164,1,2023,"Mississippi State","Southeastern Louisiana",5,2,1,0
+401520165,1,2023,"Missouri","South Dakota",5,0,1,1
+401520166,1,2023,"New Mexico State","Western Illinois",8,1,3,0
+401520167,1,2023,"North Carolina","South Carolina",0,1,0,1
+401520168,1,2023,"Ole Miss","Mercer",9,1,1,0
+401520170,1,2023,"Purdue","Fresno State",4,0,5,1
+401520171,1,2023,"Rutgers","Northwestern",3,1,1,0
+401520172,1,2023,"SMU","Louisiana Tech",4,1,2,0
+401520173,1,2023,"Texas A&M","New Mexico",7,1,1,1
+401520174,1,2023,"Connecticut","NC State",2,0,3,1
+401520175,1,2023,"Louisiana Monroe","Army",2,1,0,2
+401520176,1,2023,"Utah","Florida",3,1,1,1
+401520177,1,2023,"UTEP","Incarnate Word",4,0,2,0
+401520178,1,2023,"Vanderbilt","Alabama A&M",6,1,1,2
+401520179,1,2023,"Tennessee","Virginia",7,0,1,2
+401520180,1,2023,"Wisconsin","Buffalo",5,1,2,1
+401520181,1,2023,"Western Kentucky","South Florida",4,2,3,1
+401520182,1,2023,"Florida State","LSU",6,1,3,1
+401520183,2,2023,"Alabama","Texas",2,3,4,2
+401520184,2,2023,"Arkansas","Kent State",3,0,0,2
+401520185,2,2023,"Army","Delaware State",8,0,0,0
+401520186,2,2023,"California","Auburn",1,1,2,0
+401520187,2,2023,"Coastal Carolina","Jacksonville State",3,3,4,3
+401520188,2,2023,"Colorado","Nebraska",4,3,2,0
+401520189,2,2023,"Florida International","North Texas",5,1,5,2
+401520190,2,2023,"Florida","McNeese",7,0,1,0
+401520191,2,2023,"Georgia","Ball State",5,1,0,1
+401520192,2,2023,"Georgia State","Connecticut",5,0,2,0
+401520193,2,2023,"Indiana","Indiana State",5,2,0,0
+401520194,2,2023,"Iowa State","Iowa",1,2,1,2
+401520195,2,2023,"Kansas","Illinois",4,2,3,0
+401520196,2,2023,"Kentucky","Eastern Kentucky",4,0,2,1
+401520197,2,2023,"Louisiana Tech","Northwestern State",5,3,3,0
+401520198,2,2023,"Liberty","New Mexico State",4,2,2,1
+401520199,2,2023,"LSU","Grambling",10,0,1,1
+401520200,2,2023,"Maryland","Charlotte",4,3,2,0
+401520201,2,2023,"Miami","Texas A&M",5,2,5,2
+401520202,2,2023,"Michigan","UNLV",5,0,1,0
+401520203,2,2023,"Michigan State","Richmond",6,1,1,0
+401520204,2,2023,"Minnesota","Eastern Michigan",2,3,0,2
+401520205,2,2023,"Mississippi State","Arizona",4,1,3,1
+401520206,2,2023,"Missouri","Middle Tennessee",3,1,2,1
+401520207,2,2023,"Northwestern","UTEP",5,1,1,0
+401520208,2,2023,"Ohio State","Youngstown State",5,0,1,0
+401520209,2,2023,"Penn State","Delaware",8,0,1,0
+401520210,2,2023,"Rutgers","Temple",4,3,1,0
+401520211,2,2023,"Sam Houston State","Air Force",0,1,1,2
+401520212,2,2023,"South Carolina","Furman",7,0,3,0
+401520213,2,2023,"Tennessee","Austin Peay",3,3,1,2
+401520214,2,2023,"Tulane","Ole Miss",2,2,3,3
+401520215,2,2023,"Virginia Tech","Purdue",2,1,3,1
+401520216,2,2023,"Wake Forest","Vanderbilt",3,3,4,0
+401520217,2,2023,"Washington State","Wisconsin",3,1,2,3
+401520218,2,2023,"Western Kentucky","Houston Christian",6,1,3,0
+401520219,3,2023,"Arizona","UTEP",4,1,1,1
+401520220,3,2023,"Arkansas","BYU",3,1,5,1
+401520221,3,2023,"Auburn","Samford",6,1,2,0
+401520222,3,2023,"Buffalo","Liberty",4,0,7,2
+401520223,3,2023,"Duke","Northwestern",5,1,2,0
+401520224,3,2023,"Florida","Tennessee",4,1,2,1
+401520225,3,2023,"Georgia","South Carolina",3,1,2,0
+401520226,3,2023,"Illinois","Penn State",2,0,3,3
+401520227,3,2023,"Iowa","Western Michigan",5,1,1,1
+401520228,3,2023,"Kentucky","Akron",5,0,0,1
+401520229,3,2023,"Louisiana Tech","North Texas",5,1,4,4
+401520230,3,2023,"Indiana","Louisville",2,0,3,0
+401520231,3,2023,"Maryland","Virginia",5,0,2,0
+401520232,3,2023,"Michigan","Bowling Green",4,1,0,2
+401520233,3,2023,"Michigan State","Washington",1,0,5,2
+401520234,3,2023,"Middle Tennessee","Murray State",5,0,2,0
+401520235,3,2023,"Mississippi State","LSU",2,0,5,2
+401520236,3,2023,"Missouri","Kansas State",3,3,3,2
+401520237,3,2023,"Nebraska","Northern Illinois",5,0,1,1
+401520238,3,2023,"New Mexico","New Mexico State",2,1,3,2
+401520239,3,2023,"North Carolina","Minnesota",4,1,1,2
+401520240,3,2023,"Ohio State","Western Kentucky",7,0,1,1
+401520242,3,2023,"Purdue","Syracuse",2,0,5,0
+401520243,3,2023,"Rutgers","Virginia Tech",5,0,2,1
+401520244,3,2023,"South Florida","Alabama",0,1,2,1
+401520245,3,2023,"Texas A&M","Louisiana Monroe",5,4,0,1
+401520246,3,2023,"Connecticut","Florida International",2,1,3,1
+401520247,3,2023,"UNLV","Vanderbilt",3,4,3,3
+401520249,3,2023,"Wisconsin","Georgia Southern",5,0,2,0
+401520250,4,2023,"Alabama","Ole Miss",2,3,1,1
+401520251,4,2023,"Florida","Charlotte",1,5,1,0
+401520252,4,2023,"Georgia","UAB",7,0,3,0
+401520253,4,2023,"Hawai'i","New Mexico State",2,2,2,1
+401520254,4,2023,"Houston","Sam Houston State",5,1,1,0
+401520255,4,2023,"Illinois","Florida Atlantic",3,1,2,1
+401520256,4,2023,"Indiana","Akron",2,2,3,2
+401520257,4,2023,"Jacksonville State","Eastern Michigan",7,0,0,0
+401520258,4,2023,"LSU","Arkansas",4,2,3,3
+401520259,4,2023,"Missouri","Memphis",3,2,3,2
+401520260,4,2023,"Michigan","Rutgers",3,1,1,0
+401520261,4,2023,"Michigan State","Maryland",1,1,4,1
+401520262,4,2023,"Middle Tennessee","Colorado State",3,1,3,1
+401520263,4,2023,"Nebraska","Louisiana Tech",4,0,2,0
+401520264,4,2023,"Northwestern","Minnesota",5,1,4,2
+401520265,4,2023,"Penn State","Iowa",4,1,0,0
+401520266,4,2023,"Purdue","Wisconsin",2,1,4,3
+401520267,4,2023,"South Carolina","Mississippi State",5,1,3,3
+401520268,4,2023,"Syracuse","Army",3,3,2,1
+401520269,4,2023,"Tennessee","UT San Antonio",5,1,2,0
+401520270,4,2023,"Texas A&M","Auburn",3,2,0,1
+401520271,4,2023,"Troy","Western Kentucky",3,2,3,1
+401520272,4,2023,"Connecticut","Duke",1,0,4,2
+401520273,4,2023,"UTEP","UNLV",4,0,6,1
+401520274,4,2023,"Vanderbilt","Kentucky",3,2,4,1
+401520275,4,2023,"Florida International","Liberty",1,0,5,1
+401520276,5,2023,"Sam Houston State","Jacksonville State",4,0,13,0
+401520277,5,2023,"Western Kentucky","Middle Tennessee",4,1,1,1
+401520278,5,2023,"UTEP","Louisiana Tech",1,1,2,1
+401520279,5,2023,"Arkansas","Texas A&M",1,3,2,2
+401520280,5,2023,"Auburn","Georgia",2,2,3,2
+401520281,5,2023,"Iowa","Michigan State",1,4,0,3
+401520282,5,2023,"Kentucky","Florida",4,2,2,0
+401520283,5,2023,"Maryland","Indiana",6,1,2,1
+401520284,5,2023,"Minnesota","Louisiana",5,0,3,1
+401520285,5,2023,"Mississippi State","Alabama",2,1,3,4
+401520286,5,2023,"Nebraska","Michigan",1,0,6,1
+401520287,5,2023,"Northwestern","Penn State",1,2,5,2
+401520288,5,2023,"Ole Miss","LSU",7,2,7,0
+401520289,5,2023,"Purdue","Illinois",5,1,2,2
+401520290,5,2023,"Rutgers","Wagner",7,1,0,1
+401520291,5,2023,"Tennessee","South Carolina",4,2,2,2
+401520292,5,2023,"Connecticut","Utah State",4,2,4,2
+401520293,5,2023,"Vanderbilt","Missouri",3,0,5,1
+401520294,6,2023,"Middle Tennessee","Jacksonville State",4,1,5,1
+401520295,6,2023,"Louisiana Tech","Western Kentucky",4,0,5,0
+401520296,6,2023,"Liberty","Sam Houston State",3,0,2,1
+401520297,6,2023,"New Mexico State","Florida International",4,2,2,1
+401520301,6,2023,"Illinois","Nebraska",1,0,2,2
+401521330,4,2023,"Notre Dame","Ohio State",2,0,2,1
+401523986,1,2023,"USC","San José State",3,0,4,0
+401523987,1,2023,"Arizona State","Southern Utah",3,1,2,0
+401523988,1,2023,"Hawai'i","Stanford",3,1,4,3
+401523989,1,2023,"Arizona","Northern Arizona",4,1,0,1
+401523990,1,2023,"Colorado State","Washington State",2,1,7,1
+401523991,1,2023,"North Texas","California",3,0,8,1
+401523992,1,2023,"Oregon","Portland State",11,1,1,0
+401523994,1,2023,"TCU","Colorado",6,0,6,1
+401523995,1,2023,"UCLA","Coastal Carolina",3,2,1,2
+401523996,1,2023,"USC","Nevada",8,1,2,0
+401523997,1,2023,"Washington","Boise State",8,0,2,2
+401523998,2,2023,"Arizona State","Oklahoma State",2,0,3,2
+401523999,2,2023,"Baylor","Utah",1,2,2,2
+401524000,2,2023,"Oregon State","UC Davis",6,2,1,0
+401524001,2,2023,"San Diego State","UCLA",1,1,5,0
+401524002,2,2023,"Texas Tech","Oregon",4,1,3,3
+401524003,2,2023,"USC","Stanford",7,0,1,1
+401524004,2,2023,"Washington","Tulsa",6,0,1,1
+401524005,3,2023,"Arizona State","Fresno State",0,0,2,5
+401524006,3,2023,"California","Idaho",4,1,2,1
+401524007,3,2023,"Colorado","Colorado State",4,2,4,0
+401524008,3,2023,"Oregon","Hawai'i",7,2,1,1
+401524009,3,2023,"Oregon State","San Diego State",3,2,1,1
+401524011,3,2023,"UCLA","North Carolina Central",8,1,1,0
+401524012,3,2023,"Utah","Weber State",3,1,1,0
+401524013,3,2023,"Washington State","Northern Colorado",9,0,3,0
+401524014,4,2023,"Arizona State","USC",3,2,5,2
+401524015,4,2023,"Oregon","Colorado",6,0,1,0
+401524016,4,2023,"Stanford","Arizona",2,2,3,0
+401524017,4,2023,"Utah","UCLA",1,0,1,0
+401524018,4,2023,"Washington","California",6,1,5,0
+401524019,4,2023,"Washington State","Oregon State",5,1,5,0
+401524020,5,2023,"Oregon State","Utah",3,0,1,0
+401524021,5,2023,"Arizona","Washington",3,1,4,1
+401524022,5,2023,"California","Arizona State",3,1,2,2
+401524023,5,2023,"Colorado","USC",6,0,7,0
+401524024,5,2023,"Stanford","Oregon",0,2,6,0
+401525434,1,2023,"Notre Dame","Navy",6,0,0,1
+401525435,1,2023,"Notre Dame","Tennessee State",7,0,0,1
+401525436,2,2023,"NC State","Notre Dame",3,1,6,1
+401525437,3,2023,"Notre Dame","Central Michigan",5,2,2,1
+401525438,5,2023,"Duke","Notre Dame",2,0,2,2
+401525450,1,2023,"New Mexico State","UMass",4,1,4,2
+401525461,1,2023,"Wake Forest","Elon",4,3,1,1
+401525463,1,2023,"Miami","Miami (OH)",4,3,0,1
+401525464,1,2023,"Boston College","Northern Illinois",0,1,1,0
+401525465,1,2023,"Pittsburgh","Wofford",6,1,1,0
+401525466,1,2023,"Syracuse","Colgate",8,1,0,0
+401525467,1,2023,"Virginia Tech","Old Dominion",3,3,2,1
+401525468,1,2023,"Duke","Clemson",3,2,1,0
+401525469,2,2023,"Louisville","Murray State",8,0,0,0
+401525490,2,2023,"Boston College","Holy Cross",4,1,4,0
+401525491,2,2023,"Clemson","Charleston Southern",8,1,1,1
+401525492,2,2023,"Duke","Lafayette",6,0,1,0
+401525493,2,2023,"Florida State","Southern Mississippi",8,1,1,2
+401525494,2,2023,"Georgia Tech","South Carolina State",6,2,2,0
+401525495,2,2023,"North Carolina","Appalachian State",5,2,4,2
+401525496,2,2023,"Pittsburgh","Cincinnati",3,0,3,2
+401525497,2,2023,"Syracuse","Western Michigan",5,2,1,0
+401525498,2,2023,"Virginia","James Madison",5,0,4,1
+401525499,3,2023,"Miami","Bethune-Cookman",7,0,1,0
+401525500,3,2023,"Boston College","Florida State",3,1,4,1
+401525501,3,2023,"Clemson","Florida Atlantic",6,0,2,0
+401525502,3,2023,"NC State","VMI",4,1,1,0
+401525503,3,2023,"West Virginia","Pittsburgh",2,1,0,2
+401525504,3,2023,"Old Dominion","Wake Forest",1,1,3,2
+401525505,4,2023,"Virginia","NC State",2,2,3,1
+401525506,4,2023,"Louisville","Boston College",8,0,4,0
+401525507,4,2023,"Clemson","Florida State",3,1,3,1
+401525508,4,2023,"Wake Forest","Georgia Tech",2,1,3,3
+401525509,4,2023,"Temple","Miami",1,0,5,2
+401525510,4,2023,"Pittsburgh","North Carolina",2,1,4,3
+401525511,4,2023,"Marshall","Virginia Tech",3,1,2,1
+401525512,5,2023,"NC State","Louisville",1,1,1,2
+401525513,5,2023,"Boston College","Virginia",3,2,3,1
+401525514,5,2023,"Syracuse","Clemson",2,0,4,1
+401525515,5,2023,"Georgia Tech","Bowling Green",4,0,4,1
+401525516,5,2023,"Virginia Tech","Pittsburgh",5,1,2,0
+401525815,1,2023,"Kansas","Missouri State",6,2,2,1
+401525816,1,2023,"UCF","Kent State",8,0,0,2
+401525817,1,2023,"Baylor","Texas State",3,3,6,0
+401525818,1,2023,"Cincinnati","Eastern Kentucky",9,1,1,2
+401525819,1,2023,"Houston","UT San Antonio",2,1,2,0
+401525820,1,2023,"Iowa State","Northern Iowa",3,1,1,1
+401525821,1,2023,"Kansas State","Southeast Missouri State",6,1,0,0
+401525822,1,2023,"Oklahoma","Arkansas State",9,1,0,0
+401525823,1,2023,"Oklahoma State","Central Arkansas",3,2,2,0
+401525824,1,2023,"Texas","Rice",4,2,1,1
+401525825,1,2023,"Wyoming","Texas Tech",3,2,4,2
+401525827,2,2023,"Boise State","UCF",2,1,0,4
+401525828,2,2023,"BYU","Southern Utah",6,0,2,1
+401525829,2,2023,"Kansas State","Troy",6,0,1,2
+401525830,2,2023,"Oklahoma","SMU",4,0,1,1
+401525831,2,2023,"Rice","Houston",6,0,4,0
+401525832,2,2023,"TCU","Nicholls",4,2,1,2
+401525833,2,2023,"West Virginia","Duquesne",8,0,2,1
+401525834,3,2023,"Baylor","Long Island University",4,0,1,0
+401525835,3,2023,"Cincinnati","Miami (OH)",2,3,3,1
+401525836,3,2023,"Houston","TCU",0,2,5,3
+401525837,3,2023,"Nevada","Kansas",3,1,4,1
+401525838,3,2023,"Ohio","Iowa State",1,1,1,0
+401525839,3,2023,"Oklahoma State","South Alabama",1,0,4,2
+401525840,3,2023,"Texas","Wyoming",3,1,1,1
+401525841,3,2023,"Texas Tech","Tarleton State",4,2,0,1
+401525842,3,2023,"Tulsa","Oklahoma",2,1,8,1
+401525843,3,2023,"UCF","Villanova",6,2,2,0
+401525844,4,2023,"Baylor","Texas",0,2,5,1
+401525845,4,2023,"Cincinnati","Oklahoma",0,2,2,2
+401525846,4,2023,"Iowa State","Oklahoma State",4,2,3,2
+401525847,4,2023,"Kansas","BYU",2,1,3,2
+401525848,4,2023,"Kansas State","UCF",6,1,4,1
+401525849,4,2023,"TCU","SMU",4,2,2,1
+401525850,4,2023,"West Virginia","Texas Tech",2,2,1,2
+401525851,5,2023,"BYU","Cincinnati",4,0,3,2
+401525852,5,2023,"Oklahoma","Iowa State",5,2,2,2
+401525853,5,2023,"TCU","West Virginia",3,0,3,1
+401525854,5,2023,"Texas","Kansas",5,2,2,0
+401525855,5,2023,"Texas Tech","Houston",5,0,5,0
+401525856,5,2023,"UCF","Baylor",4,0,3,2
+401525857,6,2023,"Oklahoma State","Kansas State",1,5,3,0
+401526833,2,2023,"UMass","Miami (OH)",2,0,4,2
+401526834,3,2023,"Eastern Michigan","UMass",2,2,2,1
+401526835,4,2023,"UMass","New Mexico",3,3,5,0
+401526836,5,2023,"UMass","Arkansas State",3,2,7,1
+401531337,1,2023,"Tulsa","Arkansas-Pine Bluff",6,0,1,0
+401531338,4,2023,"Northern Illinois","Tulsa",2,0,2,2
+401531339,5,2023,"Tulsa","Temple",7,2,2,1
+401531347,1,2023,"Tulane","South Alabama",4,3,2,1
+401531348,3,2023,"Southern Mississippi","Tulane",0,1,3,0
+401531349,4,2023,"Tulane","Nicholls",3,3,1,0
+401531370,5,2023,"Tulane","UAB",5,0,2,3
+401531377,1,2023,"UAB","North Carolina A&T",5,0,0,2
+401531378,2,2023,"Georgia Southern","UAB",6,2,5,0
+401531379,3,2023,"UAB","Louisiana",3,1,5,2
+401531387,1,2023,"Temple","Akron",3,1,3,0
+401531388,3,2023,"Temple","Norfolk State",5,2,1,0
+401531395,2,2023,"UT San Antonio","Texas State",2,2,1,2
+401531396,3,2023,"UT San Antonio","Army",4,0,4,3
+401531402,1,2023,"Charlotte","South Carolina State",3,1,0,1
+401531403,3,2023,"Charlotte","Georgia State",2,1,5,2
+401531404,5,2023,"SMU","Charlotte",4,2,2,1
+401531411,2,2023,"East Carolina","Marshall",1,2,4,1
+401531412,3,2023,"Appalachian State","East Carolina",3,1,2,0
+401531413,4,2023,"East Carolina","Gardner-Webb",6,1,0,0
+401531414,5,2023,"Rice","East Carolina",3,1,1,3
+401531418,1,2023,"Florida Atlantic","Monmouth",6,0,3,0
+401531419,2,2023,"Florida Atlantic","Ohio",0,1,2,1
+401531422,2,2023,"South Florida","Florida A&M",5,1,3,1
+401531423,4,2023,"South Florida","Rice",5,2,4,0
+401531424,5,2023,"Navy","South Florida",4,1,5,0
+401531426,1,2023,"Memphis","Bethune-Cookman",7,2,0,0
+401531427,2,2023,"Arkansas State","Memphis",0,1,4,1
+401531428,3,2023,"Memphis","Navy",4,0,3,1
+401531429,5,2023,"Memphis","Boise State",4,0,4,1
+401531432,2,2023,"Navy","Wagner",3,1,0,0
+401531436,5,2023,"North Texas","Abilene Christian",6,1,4,1
+401531438,3,2023,"SMU","Prairie View",9,0,0,0
+401531441,3,2023,"Rice","Texas Southern",8,1,1,0
+401531834,1,2023,"Georgia State","Rhode Island",5,0,5,0
+401531835,1,2023,"Appalachian State","Gardner-Webb",6,1,3,1
+401531836,1,2023,"Georgia Southern","The Citadel",4,2,0,0
+401531837,1,2023,"James Madison","Bucknell",5,1,0,1
+401531838,1,2023,"Marshall","Albany",3,0,2,1
+401531839,1,2023,"Louisiana","Northwestern State",5,1,1,2
+401531840,1,2023,"Southern Mississippi","Alcorn State",4,4,2,0
+401531841,1,2023,"Troy","Stephen F. Austin",5,2,2,3
+401531842,2,2023,"Old Dominion","Louisiana",5,1,4,1
+401531843,2,2023,"Louisiana Monroe","Lamar",2,1,2,0
+401531844,2,2023,"South Alabama","Southeastern Louisiana",5,0,2,1
+401531845,3,2023,"Coastal Carolina","Duquesne",7,1,1,0
+401531846,3,2023,"Arkansas State","Stony Brook",4,1,1,0
+401531847,3,2023,"Texas State","Jackson State",11,0,5,0
+401531848,3,2023,"Troy","James Madison",2,0,1,3
+401531849,4,2023,"Coastal Carolina","Georgia State",1,1,3,3
+401531870,4,2023,"Wyoming","Appalachian State",2,0,0,4
+401531871,4,2023,"Ball State","Georgia Southern",0,1,4,4
+401531872,4,2023,"Utah State","James Madison",5,1,6,1
+401531873,4,2023,"Old Dominion","Texas A&M-Commerce",1,1,1,1
+401531874,4,2023,"Arkansas State","Southern Mississippi",5,3,4,3
+401531875,4,2023,"Louisiana","Buffalo",5,1,5,1
+401531876,4,2023,"South Alabama","Central Michigan",4,1,5,0
+401531877,4,2023,"Texas State","Nevada",6,0,1,1
+401531878,5,2023,"Georgia Southern","Coastal Carolina",4,1,4,0
+401531879,5,2023,"Georgia State","Troy",1,0,3,2
+401531880,5,2023,"James Madison","South Alabama",3,1,3,1
+401531881,5,2023,"Marshall","Old Dominion",4,2,5,0
+401531882,5,2023,"Louisiana Monroe","Appalachian State",6,0,4,2
+401531883,5,2023,"Southern Mississippi","Texas State",5,1,6,0
+401532392,1,2023,"San Diego State","Ohio",2,2,1,2
+401532393,1,2023,"Western Michigan","St Francis (PA)",5,0,2,1
+401532394,1,2023,"Eastern Michigan","Howard",2,1,3,1
+401532395,1,2023,"Ohio","Long Island University",3,2,1,1
+401532396,2,2023,"Central Michigan","New Hampshire",5,1,6,0
+401532397,2,2023,"Northern Illinois","Southern Illinois",1,1,2,0
+401532398,2,2023,"Toledo","Texas Southern",10,0,0,1
+401532399,2,2023,"Akron","Morgan State",1,1,3,0
+401532400,2,2023,"Bowling Green","Eastern Illinois",5,1,2,1
+401532402,3,2023,"Ball State","Indiana State",5,1,1,0
+401532403,3,2023,"Toledo","San José State",2,0,2,1
+401532404,3,2023,"Kent State","Central Connecticut",5,1,1,1
+401532405,4,2023,"Bowling Green","Ohio",1,0,3,1
+401532406,4,2023,"Toledo","Western Michigan",7,0,3,1
+401532407,4,2023,"Fresno State","Kent State",7,1,1,1
+401532408,4,2023,"Miami (OH)","Delaware State",8,2,3,0
+401532409,5,2023,"Western Michigan","Ball State",6,0,2,1
+401532410,5,2023,"Central Michigan","Eastern Michigan",3,1,3,1
+401532411,5,2023,"Toledo","Northern Illinois",5,0,3,2
+401532412,5,2023,"Akron","Buffalo",1,1,1,2
+401532413,5,2023,"Kent State","Miami (OH)",0,1,2,3
+401532570,1,2023,"Air Force","Robert Morris",5,0,0,0
+401532571,1,2023,"San Diego State","Idaho State",4,2,3,2
+401532572,1,2023,"UNLV","Bryant",4,3,2,0
+401532573,1,2023,"San José State","Oregon State",2,1,6,0
+401532574,2,2023,"Fresno State","Eastern Washington",4,2,4,1
+401532575,2,2023,"Hawai'i","Albany",4,1,1,2
+401532577,2,2023,"New Mexico","Tennessee Tech",8,0,1,1
+401532578,2,2023,"San José State","Cal Poly",7,1,0,1
+401532579,2,2023,"Utah State","Idaho State",9,1,4,0
+401532580,2,2023,"Wyoming","Portland State",4,1,2,1
+401532581,3,2023,"Air Force","Utah State",5,1,3,0
+401532582,3,2023,"Boise State","North Dakota",6,0,3,0
+401532583,4,2023,"San Diego State","Boise State",4,1,4,2
+401532584,4,2023,"San José State","Air Force",3,0,6,1
+401532585,5,2023,"Colorado State","Utah Tech",6,0,2,2
+401532586,5,2023,"UNLV","Hawai'i",5,3,2,2
+401532587,5,2023,"Fresno State","Nevada",3,2,1,0
+401532588,5,2023,"Wyoming","New Mexico",3,4,3,2
+401532589,5,2023,"Air Force","San Diego State",6,0,1,1
+401534851,3,2023,"Howard","Hampton",0,0,0,0
+401534852,5,2023,"Robert Morris","Howard",0,0,0,0
+401539971,3,2023,"Richmond","Delaware State",0,0,0,0
+401539972,5,2023,"Delaware State","Virginia Lynchburg",0,0,0,0
+401539978,1,2023,"Richmond","Morgan State",0,0,0,0
+401539979,3,2023,"Morgan State","Towson",0,0,0,0
+401539981,5,2023,"Yale","Morgan State",0,0,0,0
+401539988,4,2023,"Towson","Norfolk State",0,0,0,0
+401539989,5,2023,"Norfolk State","North Carolina A&T",0,0,0,0
+401539994,2,2023,"North Carolina A&T","North Carolina Central",0,0,0,0
+401539995,4,2023,"North Carolina Central","Mississippi Valley State",0,0,0,0
+401539996,5,2023,"North Carolina Central","Campbell",0,0,0,0
+401539999,1,2023,"Jackson State","South Carolina State",0,0,0,0
+401540004,2,2023,"Central Connecticut","Stonehill",0,0,0,0
+401540005,5,2023,"Brown","Central Connecticut",0,0,0,0
+401540013,5,2023,"Long Island University","Duquesne",0,0,0,0
+401540020,2,2023,"Bryant","Long Island University",0,0,0,0
+401540027,1,2023,"Sacred Heart","Lafayette",0,0,0,0
+401540028,2,2023,"Georgetown","Sacred Heart",0,0,0,0
+401540029,4,2023,"St Francis (PA)","Sacred Heart",0,0,0,0
+401540030,5,2023,"Sacred Heart","Merrimack",0,0,0,0
+401540033,2,2023,"Robert Morris","St Francis (PA)",0,0,0,0
+401540034,3,2023,"Delaware","St Francis (PA)",0,0,0,0
+401540035,5,2023,"Stonehill","St Francis (PA)",0,0,0,0
+401540039,3,2023,"Georgetown","Stonehill",0,0,0,0
+401540040,4,2023,"Fordham","Stonehill",0,0,0,0
+401540043,1,2023,"Fordham","Wagner",0,0,0,0
+401540044,3,2023,"Sacred Heart","Wagner",0,0,0,0
+401540045,4,2023,"Wagner","Merrimack",0,0,0,0
+401540047,2,2023,"Bucknell","VMI",0,0,0,0
+401540048,4,2023,"Bucknell","Pennsylvania",0,0,0,0
+401540049,5,2023,"Lafayette","Bucknell",0,0,0,0
+401540057,1,2023,"Georgetown","Marist",0,0,0,0
+401540058,4,2023,"Columbia","Georgetown",0,0,0,0
+401540059,5,2023,"Georgetown","Fordham",0,0,0,0
+401540065,1,2023,"Holy Cross","Merrimack",0,0,0,0
+401540067,4,2023,"Holy Cross","Colgate",0,0,0,0
+401540068,5,2023,"Holy Cross","Harvard",0,0,0,0
+401540072,3,2023,"Lafayette","Columbia",0,0,0,0
+401540073,4,2023,"Lafayette","Monmouth",0,0,0,0
+401540078,1,2023,"Lehigh","Villanova",0,0,0,0
+401540079,2,2023,"Merrimack","Lehigh",0,0,0,0
+401540080,3,2023,"Lehigh","Cornell",0,0,0,0
+401540081,4,2023,"Dartmouth","Lehigh",0,0,0,0
+401540082,5,2023,"Monmouth","Lehigh",0,0,0,0
+401540087,4,2023,"Alabama A&M","Arkansas-Pine Bluff",0,0,0,0
+401540100,2,2023,"Western Illinois","Illinois State",0,0,0,0
+401540101,3,2023,"Eastern Illinois","Illinois State",0,0,0,0
+401540102,4,2023,"Illinois State","Lindenwood",0,0,0,0
+401540115,1,2023,"Alabama State","Southern",0,0,0,0
+401540117,4,2023,"Florida A&M","Alabama State",0,0,0,0
+401540118,5,2023,"Alabama State","Alcorn State",0,0,0,0
+401540125,2,2023,"Stephen F. Austin","Alcorn State",0,0,0,0
+401540126,4,2023,"Alcorn State","Prairie View",0,0,0,0
+401540135,5,2023,"Arkansas-Pine Bluff","Southern",0,0,0,0
+401540142,4,2023,"Jackson State","Bethune-Cookman",0,0,0,0
+401540148,1,2023,"Florida A&M","Jackson State",0,0,0,0
+401540158,5,2023,"Prairie View","Grambling",0,0,0,0
+401540166,1,2023,"Texas Southern","Prairie View",0,0,0,0
+401540172,5,2023,"Texas Southern","Lincoln University (CA)",0,0,0,0
+401540173,1,2023,"Southern Illinois","Austin Peay",0,0,0,0
+401540174,3,2023,"Austin Peay","East Tennessee State",0,0,0,0
+401540175,4,2023,"Stephen F. Austin","Austin Peay",0,0,0,0
+401540176,5,2023,"Lindenwood","Austin Peay",0,0,0,0
+401540183,2,2023,"Central Arkansas","Texas College",0,0,0,0
+401540184,3,2023,"North Dakota State","Central Arkansas",0,0,0,0
+401540186,5,2023,"Southern Utah","Central Arkansas",0,0,0,0
+401540192,3,2023,"Eastern Kentucky","Western Carolina",0,0,0,0
+401540193,4,2023,"Eastern Kentucky","Southeast Missouri State",0,0,0,0
+401540194,5,2023,"North Alabama","Eastern Kentucky",0,0,0,0
+401540199,1,2023,"Mercer","North Alabama",0,0,0,0
+401540200,1,2023,"North Alabama","Chattanooga",0,0,0,0
+401540202,3,2023,"Tennessee Tech","North Alabama",0,0,0,0
+401540203,4,2023,"North Alabama","UT Martin",0,0,0,0
+401540206,3,2023,"UC Davis","Southern Utah",0,0,0,0
+401540207,4,2023,"Southern Utah","Western Illinois",0,0,0,0
+401540213,1,2023,"McNeese","Tarleton State",0,0,0,0
+401540215,5,2023,"Southeastern Louisiana","Tarleton State",0,0,0,0
+401540219,1,2023,"Montana State","Utah Tech",0,0,0,0
+401540220,2,2023,"Utah Tech","Montana",0,0,0,0
+401540221,3,2023,"Northern Arizona","Utah Tech",0,0,0,0
+401540222,4,2023,"Missouri State","Utah Tech",0,0,0,0
+401540225,1,2023,"Cal Poly","San Diego",0,0,0,0
+401540227,4,2023,"Portland State","Cal Poly",0,0,0,0
+401540228,5,2023,"Cal Poly","UC Davis",0,0,0,0
+401540235,1,2023,"North Dakota State","Eastern Washington",0,0,0,0
+401540236,3,2023,"Eastern Washington","Southeastern Louisiana",0,0,0,0
+401540237,4,2023,"UC Davis","Eastern Washington",0,0,0,0
+401540238,5,2023,"Eastern Washington","Idaho",0,0,0,0
+401540244,1,2023,"Lamar","Idaho",0,0,0,0
+401540245,4,2023,"Idaho","Sacramento State",0,0,0,0
+401540253,5,2023,"Montana","Idaho State",0,0,0,0
+401540258,1,2023,"Montana","Butler",0,0,0,0
+401540260,4,2023,"Northern Arizona","Montana",0,0,0,0
+401540266,2,2023,"South Dakota State","Montana State",0,0,0,0
+401540267,3,2023,"Montana State","Stetson",0,0,0,0
+401540268,4,2023,"Weber State","Montana State",0,0,0,0
+401540269,5,2023,"Montana State","Portland State",0,0,0,0
+401540272,2,2023,"North Dakota","Northern Arizona",0,0,0,0
+401540273,5,2023,"Sacramento State","Northern Arizona",0,0,0,0
+401540278,1,2023,"Abilene Christian","Northern Colorado",0,0,0,0
+401540279,2,2023,"Northern Colorado","Incarnate Word",0,0,0,0
+401540280,5,2023,"Northern Colorado","Weber State",0,0,0,0
+401540283,3,2023,"Portland State","North American University",0,0,0,0
+401540285,1,2023,"Nicholls","Sacramento State",0,0,0,0
+401540286,2,2023,"Sacramento State","Texas A&M-Commerce",0,0,0,0
+401540290,3,2023,"Bryant","Brown",0,0,0,0
+401540291,4,2023,"Harvard","Brown",0,0,0,0
+401540299,1,2023,"Indiana State","Eastern Illinois",0,0,0,0
+401540300,5,2023,"Murray State","Indiana State",0,0,0,0
+401540307,4,2023,"Yale","Cornell",0,0,0,0
+401540308,5,2023,"Cornell","Colgate",0,0,0,0
+401540309,6,2023,"Harvard","Cornell",0,0,0,0
+401540310,2,2023,"Northern Iowa","Weber State",0,0,0,0
+401540312,2,2023,"The Citadel","Campbell",0,0,0,0
+401540313,3,2023,"Monmouth","Campbell",0,0,0,0
+401540314,4,2023,"Campbell","Elon",0,0,0,0
+401540323,1,2023,"Stony Brook","Delaware",0,0,0,0
+401540334,3,2023,"New Hampshire","Dartmouth",0,0,0,0
+401540335,5,2023,"Pennsylvania","Dartmouth",0,0,0,0
+401540346,2,2023,"UT Martin","Missouri State",0,0,0,0
+401540347,5,2023,"Southern Illinois","Missouri State",0,0,0,0
+401540355,3,2023,"UT Martin","Houston Christian",0,0,0,0
+401540356,4,2023,"Southeastern Louisiana","Houston Christian",0,0,0,0
+401540357,5,2023,"Houston Christian","Lamar",0,0,0,0
+401540363,1,2023,"Murray State","Presbyterian College",0,0,0,0
+401540369,1,2023,"North Dakota","Drake",0,0,0,0
+401540370,5,2023,"South Dakota State","North Dakota",0,0,0,0
+401540375,3,2023,"South Dakota","Lamar",0,0,0,0
+401540376,4,2023,"Lamar","Lincoln University (CA)",0,0,0,0
+401540383,2,2023,"North Dakota State","Maine",0,0,0,0
+401540384,5,2023,"North Dakota State","South Dakota",0,0,0,0
+401540389,3,2023,"Alcorn State","McNeese",0,0,0,0
+401540390,4,2023,"Eastern Illinois","McNeese",0,0,0,0
+401540391,5,2023,"McNeese","Nicholls",0,0,0,0
+401540396,1,2023,"VMI","Davidson",0,0,0,0
+401540398,3,2023,"Marist","Davidson",0,0,0,0
+401540399,4,2023,"Davidson","St. Andrews",0,0,0,0
+401540400,5,2023,"Davidson","San Diego",0,0,0,0
+401540407,5,2023,"Northern Iowa","Youngstown State",0,0,0,0
+401540409,3,2023,"Northwestern State","Stephen F. Austin",0,0,0,0
+401540411,3,2023,"Elon","North Carolina A&T",0,0,0,0
+401540412,5,2023,"Elon","William & Mary",0,0,0,0
+401540422,4,2023,"Princeton","Bryant",0,0,0,0
+401540430,5,2023,"Northwestern State","Eastern Illinois",0,0,0,0
+401540438,5,2023,"Stephen F. Austin","Texas A&M-Commerce",0,0,0,0
+401540441,2,2023,"South Dakota","St. Thomas (MN)",0,0,0,0
+401540446,3,2023,"Southeast Missouri State","Southern Illinois",0,0,0,0
+401540450,3,2023,"Western Illinois","Lindenwood",0,0,0,0
+401540452,3,2023,"Youngstown State","Robert Morris",0,0,0,0
+401540464,3,2023,"South Dakota State","Drake",0,0,0,0
+401540467,4,2023,"San Diego","Dayton",0,0,0,0
+401540468,5,2023,"Dayton","St. Thomas (MN)",0,0,0,0
+401540471,3,2023,"Charleston Southern","William & Mary",0,0,0,0
+401540472,4,2023,"Western Carolina","Charleston Southern",0,0,0,0
+401540473,5,2023,"Charleston Southern","Kennesaw State",0,0,0,0
+401540484,3,2023,"Tennessee State","Gardner-Webb",0,0,0,0
+401540488,3,2023,"Maine","Rhode Island",0,0,0,0
+401540489,4,2023,"William & Mary","Maine",0,0,0,0
+401540490,5,2023,"Maine","Stony Brook",0,0,0,0
+401540494,2,2023,"Southeast Missouri State","Lindenwood",0,0,0,0
+401540503,2,2023,"Towson","Monmouth",0,0,0,0
+401540509,5,2023,"New Hampshire","Towson",0,0,0,0
+401540513,2,2023,"Drake","Northwestern (IA)",0,0,0,0
+401540514,5,2023,"Morehead State","Drake",0,0,0,0
+401540522,5,2023,"Marist","Stetson",0,0,0,0
+401540528,2,2023,"Mercer","Morehead State",0,0,0,0
+401540529,4,2023,"St. Thomas (MN)","Morehead State",0,0,0,0
+401540534,1,2023,"Furman","Tennessee Tech",0,0,0,0
+401540535,4,2023,"Tennessee Tech","Kennesaw State",0,0,0,0
+401540542,5,2023,"UT Martin","Tennessee State",0,0,0,0
+401540549,4,2023,"Villanova","Rhode Island",0,0,0,0
+401540554,3,2023,"Wofford","Presbyterian College",0,0,0,0
+401540555,5,2023,"Butler","Presbyterian College",0,0,0,0
+401540559,3,2023,"San Diego","Princeton",0,0,0,0
+401540573,4,2023,"Stony Brook","Richmond",0,0,0,0
+401540581,2,2023,"Chattanooga","Kennesaw State",0,0,0,0
+401540582,3,2023,"Chattanooga","The Citadel",0,0,0,0
+401540583,4,2023,"Samford","Chattanooga",0,0,0,0
+401540584,5,2023,"Wofford","Chattanooga",0,0,0,0
+401540591,5,2023,"Samford","East Tennessee State",0,0,0,0
+401540598,3,2023,"Kennesaw State","Furman",0,0,0,0
+401540599,4,2023,"Furman","Mercer",0,0,0,0
+401540605,2,2023,"Villanova","Colgate",0,0,0,0
+401540606,5,2023,"Albany","Villanova",0,0,0,0
+401540611,5,2023,"Mercer","VMI",0,0,0,0
+401540616,2,2023,"William & Mary","Wofford",0,0,0,0
+401540618,5,2023,"The Citadel","Western Carolina",0,0,0,0
+401540625,2,2023,"Western Carolina","Samford",0,0,0,0
+401540628,1,2023,"Albany","Fordham",0,0,0,0
+401541630,3,2023,"Abilene Christian","Incarnate Word",0,0,0,0
+401541632,5,2023,"Princeton","Columbia",0,0,0,0
+401541636,2,2023,"Butler","Taylor",0,0,0,0
+401544201,4,2023,"Incarnate Word","North American University",0,0,0,0
+401549200,3,2023,"Colgate","Pennsylvania",0,0,0,0

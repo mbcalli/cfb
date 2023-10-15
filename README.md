@@ -1,0 +1,1 @@
+This repo contains fun college football models. These models predict relevant statistics about college football games, including score, spread, and O/U. These are predictions and should not be used for betting purposes.

@@ -1,0 +1,96 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+
+library(readxl)
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(data.table)
+library(scales)
+library(cfbfastR)
+library(stringr)
+
+```
+
+```{r}
+
+year = 2023
+
+```
+
+```{r}
+
+data = load_cfb_pbp(seasons = year)
+
+data
+```
+
+```{r}
+
+data %>%
+  filter(scoring == TRUE) %>%
+  select(game_id, week, year, offense_play, defense_play, offense_score, defense_score, drive_pts, home, away) %>%
+  mutate(is_touchdown = ifelse(drive_pts >= 6, 1, 0), is_fg = ifelse(drive_pts == 3, 1, 0), homeness = ifelse(offense_play == home, 'home_team', 'away_team')) %>%
+  group_by(game_id, offense_play) %>%
+  summarize(week = max(week), year = max(year), home = max(home), away = max(away), homeness = max(homeness), total_tds = sum(is_touchdown), total_fgs = sum(is_fg), .groups='drop') %>%
+  pivot_wider(names_from = 'homeness', values_from=c(total_tds, total_fgs)) %>%
+  replace_na(list(total_tds_home_team = 0, total_fgs_home_team = 0, total_tds_away_team = 0, total_fgs_away_team = 0)) %>%
+  group_by(game_id) %>%
+  summarize(week=max(week), year=max(year), home = max(home), away = max(away), home_tds = sum(total_tds_home_team), home_fgs = sum(total_fgs_home_team), away_tds = sum(total_tds_away_team), away_fgs = sum(total_fgs_away_team)) %>%
+  write.csv(paste('../games/', year, '_scores.csv', sep=''), row.names=F)
+  
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
